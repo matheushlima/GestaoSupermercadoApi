@@ -11,8 +11,9 @@
 
 ## Funcionalidades
 - ✅ Cadastro e login com senha criptografada (AES)
+- ✅ Cadastro e consulta de produtos
+- ✅ Registro e consulta de vendas
 - ✅ API RESTful utilizando .NET 8 + Dapper
-- ✅ Integração com Vue.js para exibição dos dados
 
 ## Scripts para Banco de Dados
 
